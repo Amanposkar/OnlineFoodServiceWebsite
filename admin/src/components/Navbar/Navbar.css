@@ -2,10 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 8px 4%;
-}
-.navbar .logo{
-    width: max(10%,80px);
+    padding: 8px 90%;
 }
 .navbar .profile{
     width: 40px;

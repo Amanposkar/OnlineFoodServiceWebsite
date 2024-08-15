@@ -7,8 +7,8 @@ const Footer = () => {
     <div className='footer' id='footer'>
       <div className="footer-content">
         <div className="footer-content-left">
-            <img src={assets.logo} alt="" />
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <img src={assets.Moon1} alt="" />
+            <p>"Design a vibrant and user-friendly online food service website that provides a seamless ordering experience. The website should feature a modern, visually appealing layout with an emphasis on high-quality images of dishes, intuitive navigation, and smooth transitions.</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
@@ -27,8 +27,8 @@ const Footer = () => {
         <div className="footer-content-right">
             <h2>GET IN TOUCH</h2>
             <ul>
-                <li>+1-212-456-7890</li>
-                <li>contact@aman.com</li>
+                <li>+91708331486</li>
+                <li>contact@amanposkar.com</li>
             </ul>
         </div>
       </div>
